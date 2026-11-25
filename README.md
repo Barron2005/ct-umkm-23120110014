@@ -13,7 +13,7 @@ Repo ini harus **Public** dengan nama `ct-umkm-<NIM>`, supaya dosen bisa membuka
 |---|---|
 | NIM | `<isi: NIM>` |
 | Nama panggilan (opsional) | `<isi: boleh dikosongkan>` |
-| Repo | `https://github.com/<isi: username>/ct-umkm-<isi: NIM>` |
+| Repo | `https://github.com/Barron2005/ct-umkm-23120110014` |
 
 ## 2. Kasus
 
